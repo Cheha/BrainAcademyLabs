@@ -1,0 +1,6 @@
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\ThreadManipulator\bin\Debug\ThreadManipulator.exe.config
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\ThreadManipulator\bin\Debug\ThreadManipulator.exe
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\ThreadManipulator\bin\Debug\ThreadManipulator.pdb
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\ThreadManipulator\obj\Debug\ThreadManipulator.csprojResolveAssemblyReference.cache
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\ThreadManipulator\obj\Debug\ThreadManipulator.exe
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\ThreadManipulator\obj\Debug\ThreadManipulator.pdb
