@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadManipulator", "ThreadManipulator\ThreadManipulator.csproj", "{3A18093C-3651-42EF-A236-1801C5F11927}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadManipulator_1.6.1", "ThreadManipulator\ThreadManipulator_1.6.1.csproj", "{3A18093C-3651-42EF-A236-1801C5F11927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactorialParallel_1.6.2", "FactorialParallel_1.6.2\FactorialParallel_1.6.2.csproj", "{F440EDE0-252D-4A77-B4C4-5AEC54C65A94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{3A18093C-3651-42EF-A236-1801C5F11927}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A18093C-3651-42EF-A236-1801C5F11927}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A18093C-3651-42EF-A236-1801C5F11927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F440EDE0-252D-4A77-B4C4-5AEC54C65A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F440EDE0-252D-4A77-B4C4-5AEC54C65A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F440EDE0-252D-4A77-B4C4-5AEC54C65A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F440EDE0-252D-4A77-B4C4-5AEC54C65A94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

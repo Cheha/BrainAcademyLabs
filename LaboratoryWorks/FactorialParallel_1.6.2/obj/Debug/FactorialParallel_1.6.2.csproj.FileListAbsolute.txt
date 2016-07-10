@@ -1,0 +1,6 @@
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\FactorialParallel_1.6.2\bin\Debug\FactorialParallel_1.6.2.exe.config
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\FactorialParallel_1.6.2\bin\Debug\FactorialParallel_1.6.2.exe
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\FactorialParallel_1.6.2\bin\Debug\FactorialParallel_1.6.2.pdb
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\FactorialParallel_1.6.2\obj\Debug\FactorialParallel_1.6.2.csprojResolveAssemblyReference.cache
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\FactorialParallel_1.6.2\obj\Debug\FactorialParallel_1.6.2.exe
+D:\Brain Academy\LaboratoryWorks\LaboratoryWorks\FactorialParallel_1.6.2\obj\Debug\FactorialParallel_1.6.2.pdb
